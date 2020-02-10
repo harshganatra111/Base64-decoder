@@ -1,0 +1,11 @@
+/Users/harshganatra/Projects/Base64Decoder/Base64Decoder/bin/Debug/netcoreapp3.0/Base64Decoder
+/Users/harshganatra/Projects/Base64Decoder/Base64Decoder/bin/Debug/netcoreapp3.0/Base64Decoder.deps.json
+/Users/harshganatra/Projects/Base64Decoder/Base64Decoder/bin/Debug/netcoreapp3.0/Base64Decoder.runtimeconfig.json
+/Users/harshganatra/Projects/Base64Decoder/Base64Decoder/bin/Debug/netcoreapp3.0/Base64Decoder.runtimeconfig.dev.json
+/Users/harshganatra/Projects/Base64Decoder/Base64Decoder/bin/Debug/netcoreapp3.0/Base64Decoder.dll
+/Users/harshganatra/Projects/Base64Decoder/Base64Decoder/bin/Debug/netcoreapp3.0/Base64Decoder.pdb
+/Users/harshganatra/Projects/Base64Decoder/Base64Decoder/obj/Debug/netcoreapp3.0/Base64Decoder.csprojAssemblyReference.cache
+/Users/harshganatra/Projects/Base64Decoder/Base64Decoder/obj/Debug/netcoreapp3.0/Base64Decoder.AssemblyInfoInputs.cache
+/Users/harshganatra/Projects/Base64Decoder/Base64Decoder/obj/Debug/netcoreapp3.0/Base64Decoder.AssemblyInfo.cs
+/Users/harshganatra/Projects/Base64Decoder/Base64Decoder/obj/Debug/netcoreapp3.0/Base64Decoder.dll
+/Users/harshganatra/Projects/Base64Decoder/Base64Decoder/obj/Debug/netcoreapp3.0/Base64Decoder.pdb

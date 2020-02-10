@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{ECC406F4-5865-4A38-A696-DA62BF006BBB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Base64Decoder/Program.cs">
+    <Files>
+      <File FileName="Base64Decoder/Program.cs" Line="135" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Base64Decoder" expanded="True">
+            <Node name="Base64Decoder" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Base64Decoder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
